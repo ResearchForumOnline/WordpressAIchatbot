@@ -2,7 +2,9 @@
 
 **Repository Name:** `WordpressAIchatbot`
 
-EASY UPLOAD agent-zero-v5.zip install, add api key, job done!
+EASY UPLOAD agent-zero-v5.zip install, add FREE Groq or paid openai google xai api key, job done!
+
+![Main Settings](Screenshot_1762.png)
 
 A cutting-edge WordPress plugin designed for seamless integration of highly customizable AI chatbots. Agent Zero empowers your website with an intelligent assistant, offering support for multiple leading AI API providers, an editable knowledgebase for precise contextual responses, and dynamic agent identity for a truly personalized AI experience. This plugin is **FULLY CUSTOMIZABLE**, requires **NO CODING** for configuration after installation, and is engineered to allow you to brand your AI assistant entirely as your own.
 
@@ -59,6 +61,7 @@ Take full control of your AI chatbot from this sophisticated yet user-friendly s
 Effortlessly configure your preferred AI provider, select the specific AI model to utilize, input your API key, and manage general display options.
 
 ![Main Settings](Screenshot_1747.png)
+
 
 #### Knowledgebase Management: Empower Your AI's Understanding
 
