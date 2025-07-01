@@ -53,7 +53,7 @@ In essence, Agent Zero isn't just connecting your WordPress site to an LLM; it's
 
 For a Customised Premium Version of the Agent Zero Plugin with Enhanced Features and Dedicated Support, Check out:
 
-shop.talktoai.org
+shop.talktoai.org Our premium version includes very advanced math frameworks made by talktoai.org researchforum.online
 
 **Agent Zero** is a powerful and highly customizable WordPress plugin that integrates an AI assistant directly into your website. It's designed for developers, researchers, and anyone looking to add an intelligent, ethically-aligned chatbot powered by various leading AI models.
 
