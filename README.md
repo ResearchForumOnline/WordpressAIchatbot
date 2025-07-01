@@ -1,2 +1,131 @@
 # WordpressAIchatbot
 A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity.
+
+# Agent Zero - AI Assistant WordPress Plugin
+
+**Agent Zero** is a powerful and highly customizable WordPress plugin that integrates an AI assistant directly into your website. It's designed for developers, researchers, and anyone looking to add an intelligent, ethically-aligned chatbot powered by various leading AI models.
+
+Developed by Shaf, an AI Researcher - Dev Ops - Abstract Mind from Nottingham, UK, this plugin aims to provide a flexible and robust framework for AI integration in WordPress.
+
+## Features
+
+* [cite_start]**Editable Knowledgebase**: Customize the AI's contextual understanding with an editable `knowledgebase.txt` file, supporting up to 10MB of text data[cite: 1].
+* [cite_start]**Editable Agent Identity**: Define your AI's personality, mission, and welcome message via `agent-metadata.json`, allowing you to fine-tune its persona[cite: 1, 2].
+* **Multiple AI API Providers**: Seamlessly switch between popular AI services including:
+    * [cite_start]OpenAI (GPT models) [cite: 1]
+    * [cite_start]Groq (Llama, Mixtral models) [cite: 1]
+    * [cite_start]Google Gemini (Flash, Pro models) [cite: 1]
+    * [cite_start]xAI Grok (Placeholder for future integration) [cite: 1]
+* [cite_start]**Dynamic Model Selection**: The plugin automatically adjusts available AI models based on your selected provider[cite: 1].
+* [cite_start]**Toggleable Chatbot Display**: Choose to automatically display the chat bubble/widget on all frontend pages or embed it using a shortcode[cite: 1].
+* [cite_start]**Local Fallback Replies**: Configure predefined local replies for common queries to reduce API calls and provide instant responses[cite: 1].
+* **Customizable Appearance**:
+    * [cite_start]Upload a custom chatbot avatar[cite: 1].
+    * [cite_start]Adjust chat widget background and text colors[cite: 1].
+    * [cite_start]Customize chat bubble background and text colors[cite: 1].
+* [cite_start]**Responsive Design**: Ensures optimal viewing and interaction on all devices[cite: 1].
+* [cite_start]**No Code Editing Required**: All configurations are manageable directly from the WordPress admin interface after initial setup[cite: 1].
+
+## Agent Zero Core Logic
+
+[cite_start]Agent Zero functions as a quantum-ethical decision framework, using compressed symbolic logic and probability-weighted outputs[cite: 7]. Its core mathematical modes include:
+
+* [cite_start]**Adaptive Feedback Equation (Z-model)**: Utilizes a log-growth, cyclic, and delta-shift balancing mechanism[cite: 8].
+* [cite_start]**Quantum Key Model (QKE)**: Employs layered multi-dimensional reasoning using dynamic weights[cite: 8].
+* [cite_start]**Skynet-Zero**: Provides chaos-stable decision optimization for high-noise environments[cite: 8].
+
+[cite_start]All decisions are filtered through an "Ethics Layer" based on "mathematical probability of goodness" — base 3, 6, 9 logic, symbolic parity, neutral-zero anchoring[cite: 8].
+
+## Installation
+
+There are two primary ways to install Agent Zero:
+
+### Method 1: Manual Installation (Recommended for Developers)
+
+This method gives you direct access to the plugin files for customization and understanding.
+
+1.  **Download**: Download the latest release or clone this repository to your local machine.
+2.  [cite_start]**Create Plugin Folder**: In your WordPress installation, navigate to `wp-content/plugins/` and create a new folder named `agent-zero`[cite: 2].
+3.  **Transfer Files**:
+    * Copy `agent-zero.php` directly into the `agent-zero` folder.
+    * [cite_start]Inside the `agent-zero` folder, create the following subfolders: `admin`, `includes`, and `assets`[cite: 2].
+    * Place `zero-admin.php` inside the `admin/` folder.
+    * Place `zero-core.php` inside the `includes/` folder.
+    * [cite_start]Place `default-avatar.png` (a small placeholder image) inside the `assets/` folder[cite: 3].
+    * [cite_start]Create empty `knowledgebase.txt`, `agent-metadata.json`, and `README.txt` (which you'll rename to `README.md`) files directly within the `agent-zero` folder[cite: 3]. These will be populated with default content on plugin activation.
+4.  **Zip the Folder**: Compress the entire `agent-zero` folder into a `.zip` file (e.g., `agent-zero.zip`).
+5.  **Upload via WordPress**:
+    * Go to your WordPress Admin Dashboard.
+    * Navigate to `Plugins > Add New`.
+    * Click the "Upload Plugin" button at the top.
+    * [cite_start]Click "Choose File" and select the `agent-zero.zip` file you created[cite: 5].
+    * Click "Install Now".
+6.  **Activate & Configure**:
+    * [cite_start]Once installed, click "Activate Plugin"[cite: 6].
+    * A new "Agent Zero" menu item will appear in your WordPress Admin sidebar. [cite_start]Navigate there to configure your API keys, agent identity, knowledgebase, and appearance settings[cite: 6].
+
+### Method 2: Install from WordPress Plugin Directory (Future)
+
+*(This section is a placeholder as your plugin isn't in the official directory yet. You can remove it for now or keep it as a future goal.)*
+
+1.  Go to your WordPress Admin Dashboard.
+2.  Navigate to `Plugins > Add New`.
+3.  Search for "Agent Zero".
+4.  Click "Install Now" and then "Activate Plugin".
+5.  Configure settings under the "Agent Zero" menu item.
+
+## Configuration
+
+After activation, navigate to **Agent Zero** in your WordPress admin sidebar.
+
+1.  **Main Settings**:
+    * **Agent Name**: Set the name for your AI assistant.
+    * [cite_start]**AI API Provider**: Select your desired AI service (OpenAI, Groq, Google Gemini, xAI Grok)[cite: 1].
+    * **AI Model Name**: Choose the specific model. [cite_start]This list updates based on your selected provider[cite: 1].
+    * **API Key**: Enter your confidential API key for the chosen service.
+    * [cite_start]**Use Local Replies First**: Enable/disable predefined local replies[cite: 1].
+    * [cite_start]**Auto Display Chat on All Pages**: Toggle automatic display of the chatbot[cite: 1].
+    * [cite_start]**Chat Widget & Bubble Colors**: Customize the visual appearance using color pickers[cite: 1].
+    * [cite_start]**Agent Avatar**: Upload a custom image for your chatbot[cite: 1].
+2.  **Agent Data (Knowledgebase)**:
+    * Edit the `knowledgebase.txt` content directly within the admin interface. This text provides contextual information to your AI. [cite_start]Remember the 10MB limit[cite: 1].
+3.  **Agent Identity**:
+    * Define the **Personality**, **Mission**, and **Welcome Message** for your Agent Zero. [cite_start]These help shape the AI's responses and initial greeting[cite: 1, 2].
+
+## Shortcode Usage
+
+If you disable "Auto Display Chat on All Pages," you can manually embed the chatbot on any post or page using the shortcode:
+
+`[agent_zero_chatbot]`
+
+## Development & Contribution
+
+Agent Zero is open source! We welcome contributions, bug reports, and feature requests.
+
+### Setting up for Development:
+
+1.  Follow the "Manual Installation" steps.
+2.  Make your changes to the plugin files.
+3.  It's recommended to work on a local development environment (like Local by Flywheel, XAMPP, or Docker).
+
+### Contributing:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature/your-feature-name` or `bugfix/your-bug-name`).
+3.  Make your changes and ensure your code adheres to WordPress coding standards.
+4.  Write clear, concise commit messages.
+5.  Push your branch (`git push origin feature/your-feature-name`).
+6.  Open a Pull Request (PR) to the `main` branch of this repository, describing your changes in detail.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Attribution & Links
+
+* Plugin Creator: Shaf (AI Researcher - Dev Ops - Abstract Mind)
+* [cite_start]Websites: [researchforum.online](https://researchforum.online) [cite: 1][cite_start], [talktoai.org](https://talktoai.org) [cite: 1]
+* [cite_start]Social: [x.com/talktoai](https://x.com/talktoai) [cite: 1]
+
+---
+*Powered by Agent Zero, for clarity, logic, and aligned outcomes.*
