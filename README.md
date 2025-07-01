@@ -204,3 +204,16 @@ Our premium version includes very advanced mathematical frameworks and specializ
 
 ---
 *Powered by Agent Zero: For clarity, logic, and probabilistically aligned outcomes.*
+
+Structure:
+agent-zero-wordpress-plugin/
+├── agent-zero.php
+├── admin/
+│   └── zero-admin.php
+├── includes/
+│   └── zero-core.php
+├── assets/
+│   └── default-avatar.png
+├── knowledgebase.txt
+├── agent-metadata.json
+
