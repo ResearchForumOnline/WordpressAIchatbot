@@ -194,7 +194,7 @@ This project is licensed under the [MIT License](LICENSE).
 **For a Customised Premium Version of the Agent Zero Plugin with Enhanced Features and Dedicated Support, Check out:**
 
 ### **shop.talktoai.org**
-Our premium version includes very advanced math frameworks made by [talktoai.org](https://talktoai.org) and [researchforum.online](https://researchforum.online).
+Our premium version includes very advanced math frameworks made by [talktoai.org](https://talktoai.org) and [researchforum.online](https://researchforum.online) x.com/talktoai @talktoai on X.
 
 ---
 *Powered by Agent Zero, for clarity, logic, and aligned outcomes.*
