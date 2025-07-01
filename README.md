@@ -1,5 +1,5 @@
 # WordpressAIchatbot
-A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity.
+A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity. REMOVE ALL BRANDING, FULLY CUSTOMISABLE, NO CODING.
 
 # Agent Zero - AI Assistant WordPress Plugin
 
