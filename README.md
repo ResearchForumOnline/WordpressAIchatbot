@@ -2,7 +2,7 @@
 
 **Repository Name:** `WordpressAIchatbot`
 
-*FULLY CUSTOMIZABLE, requires NO CODING*
+*FULLY CUSTOMIZABLE: Replace brand name and logo, requires NO CODING*
 
 EASY UPLOAD agent-zero-v5.zip install, add FREE Groq or paid openai google xai api key, job done!
 
