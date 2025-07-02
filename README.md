@@ -2,13 +2,17 @@
 
 **Repository Name:** `WordpressAIchatbot`
 
-*FULLY CUSTOMIZABLE: Replace brand name and logo, requires NO CODING*
+*FULLY CUSTOMIZABLE: Replace brand name and logo.*
+Bypass the need for servers! ✅
+No Coding - Re-Brandable ✅
+All you need is a domain, and any web hosting supports Wordpress! 
+Most do not understand how much money this will save people per month, bypassing so much bs with this plugin!✅
+
+![Main Settings](Screenshot_1762.png) 
 
 EASY UPLOAD our .zip file install, add FREE Groq or paid openai google xai api key, job done!
 
 A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity.
-
-![Main Settings](Screenshot_1762.png) 
 
 *The newest version that i have tested is: v8*
 
