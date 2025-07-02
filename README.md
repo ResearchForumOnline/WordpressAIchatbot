@@ -4,6 +4,13 @@
 
 EASY UPLOAD agent-zero-v5.zip install, add FREE Groq or paid openai google xai api key, job done!
 
+Upload the zip file directly downloaded from this GitHub repo.
+Access your WordPress Admin Dashboard.
+Navigate to Plugins > Add New.
+Use the search bar to find "Agent Zero."
+Click "Install Now" and then "Activate Plugin."
+Configure your settings under the "Agent Zero" menu item in your sidebar.
+
 ![Main Settings](Screenshot_1762.png)
 
 A cutting-edge WordPress plugin designed for seamless integration of highly customizable AI chatbots. Agent Zero empowers your website with an intelligent assistant, offering support for multiple leading AI API providers, an editable knowledgebase for precise contextual responses, and dynamic agent identity for a truly personalized AI experience. This plugin is **FULLY CUSTOMIZABLE**, requires **NO CODING** for configuration after installation, and is engineered to allow you to brand your AI assistant entirely as your own.
