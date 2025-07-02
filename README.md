@@ -3,9 +3,13 @@
 **Repository Name:** `WordpressAIchatbot`
 
 *FULLY CUSTOMIZABLE: Replace brand name and logo.*
+
 Bypass the need for servers! ✅
+
 No Coding - Re-Brandable ✅
+
 All you need is a domain, and any web hosting supports Wordpress! 
+
 Most do not understand how much money this will save people per month, bypassing so much bs with this plugin!✅
 
 ![Main Settings](Screenshot_1762.png) 
