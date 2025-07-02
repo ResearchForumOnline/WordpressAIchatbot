@@ -18,7 +18,7 @@ EASY UPLOAD our .zip file install, add FREE Groq or paid openai google xai api k
 
 A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity.
 
-*The newest version that i have tested is: v8*
+*The newest version that i have tested is: v9*
 
 Upload the zip file directly downloaded from this GitHub repo.
 
