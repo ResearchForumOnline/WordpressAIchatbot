@@ -9,6 +9,8 @@ EASY UPLOAD agent-zero-v5.zip install, add FREE Groq or paid openai google xai a
 
 ![Main Settings](Screenshot_1762.png) 
 
+*The newest version that i have tested is: v7*
+
 Upload the zip file directly downloaded from this GitHub repo.
 
 Access your WordPress Admin Dashboard.
