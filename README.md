@@ -4,8 +4,9 @@
 
 *FULLY CUSTOMIZABLE: Replace brand name and logo, requires NO CODING*
 
-EASY UPLOAD agent-zero-v5.zip install, add FREE Groq or paid openai google xai api key, job done!
+EASY UPLOAD our .zip file install, add FREE Groq or paid openai google xai api key, job done!
 
+A comprehensive WordPress plugin for integrating customizable AI chatbots with support for multiple leading AI API providers, an editable knowledgebase, and dynamic agent identity.
 
 ![Main Settings](Screenshot_1762.png) 
 
