@@ -1,8 +1,6 @@
 # Agent Zero - AI Assistant WordPress Plugin
 
 **Repository Name:** `WordpressAIchatbot`
-Free Support for this plugin if you buy our website hosting@
--shop.talktoai.org-
 
 *FULLY CUSTOMIZABLE: Replace brand name and logo.*
 
@@ -15,6 +13,10 @@ All you need is a domain, and any web hosting supports Wordpress!
 Most do not understand how much money this will save people per month, bypassing so much bs with this plugin!
 
 ![Main Settings](Screenshot_1762.png) 
+
+Free Support for this plugin if you buy our website hosting!
+
+-shop.talktoai.org-
 
 EASY UPLOAD our .zip file install, add FREE Groq or paid openai google xai api key, job done!
 
