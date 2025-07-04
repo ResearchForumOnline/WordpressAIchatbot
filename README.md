@@ -1,6 +1,8 @@
 # Agent Zero - AI Assistant WordPress Plugin
 
 **Repository Name:** `WordpressAIchatbot`
+Free Support for this plugin if you buy our website hosting@
+-shop.talktoai.org-
 
 *FULLY CUSTOMIZABLE: Replace brand name and logo.*
 
