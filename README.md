@@ -154,6 +154,27 @@ Agent Zero operates on a sophisticated quantum-ethical decision framework, lever
 
 Central to its operation, all AI decisions are rigorously filtered through an "Ethics Layer." This layer is founded on a unique "mathematical probability of goodness," employing base 3, 6, 9 logic, symbolic parity, and neutral-zero anchoring to guide the AI towards beneficial and aligned outcomes.
 
+
+## Downloads, Releases, And Discovery
+
+| Need | Link |
+| --- | --- |
+| GitHub repository | https://github.com/ResearchForumOnline/WordpressAIchatbot |
+| Source ZIP | https://github.com/ResearchForumOnline/WordpressAIchatbot/archive/refs/heads/main.zip |
+| GitHub releases | https://github.com/ResearchForumOnline/WordpressAIchatbot/releases |
+| TalkToAI ecosystem | https://talktoai.org/ |
+| Docs hub | https://docs.talktoai.org/ |
+
+Customizable WordPress AI chatbot plugin material with multi-provider API support, editable knowledge base, and branded assistant configuration.
+
+Download the repository ZIP or package the plugin folder for upload through WordPress admin.
+
+~~~bash
+git clone https://github.com/ResearchForumOnline/WordpressAIchatbot.git
+~~~
+
+Search-friendly topics: WordPress AI chatbot, customizable AI plugin, Groq chatbot, OpenAI chatbot, Gemini chatbot, website knowledge base AI.
+
 ## Installation
 
 Getting Agent Zero up and running on your WordPress site is straightforward. Choose the method that best suits your comfort level:
@@ -266,5 +287,4 @@ agent-zero-wordpress-plugin/
 │   └── default-avatar.png
 ├── knowledgebase.txt
 ├── agent-metadata.json
-
 
