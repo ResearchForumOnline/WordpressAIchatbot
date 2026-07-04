@@ -1,5 +1,11 @@
 # Agent Zero - AI Assistant WordPress Plugin
 
+## Featured TalkToAI Ecosystem Video
+
+[![TalkToAI: Sovereignty Through ZeroThink and OpenZero Infrastructure](https://i.ytimg.com/vi/R52hsRdCmSM/hqdefault.jpg)](https://www.youtube.com/watch?v=R52hsRdCmSM)
+
+A public overview of ZeroThink, OpenZero, FreeWebPanel, ZSEC, and the wider TalkToAI infrastructure. Watch it here: https://www.youtube.com/watch?v=R52hsRdCmSM
+
 **Repository Name:** `WordpressAIchatbot`
 
 *FULLY CUSTOMIZABLE: Replace brand name and logo.*
@@ -260,4 +266,5 @@ agent-zero-wordpress-plugin/
 │   └── default-avatar.png
 ├── knowledgebase.txt
 ├── agent-metadata.json
+
 
